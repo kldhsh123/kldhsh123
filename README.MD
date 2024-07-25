@@ -2,16 +2,26 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=开朗的火山河123&fontSize=90&fontAlign=50&fontAlignY=30&desc=kldhsh123&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 <a href="https://home.kldhsh.top"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=%E4%B8%BA%E6%98%8E%E5%A4%A9%E7%9A%84%E7%BE%8E%E5%A5%BD%E8%80%8C%E5%AD%98%E5%9C%A8;Exist+for+the+better+of+tomorrow" alt="Typing SVG" /></a>
-### Hi there, I'm [Your Name](https://home.kldhsh.top) 👋
+### Hi there, I'm [kldhsh123](https://home.kldhsh.top) 👋
+你好，我是[开朗的火山河123](https://home.kldhsh.top) 👋
 
 ## I'm a Front-end Developer and a Fan of Useless Stuff!
+我是一名前端开发者，也是无用玩意的粉丝！
 
 - 🔭 I’m currently working on improving my web development skills!
+  🔭 目前正在努力提升我的网页开发技能！
+
 - 🌱 I’m learning new technologies and frameworks to enhance my projects.
+  🌱 正在学习新技术和框架，以提升我的项目。
+
 - 👯 I’m looking to collaborate on interesting web projects.
+  👯 寻找有趣的网页项目合作机会。
+
 - 🥅 2024 Goals: Contribute more to Open Source projects.
+  🥅 2024年目标：更多地贡献开源项目。
 
 ### Languages and Tools:
+### 编程语言和工具：
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -20,16 +30,30 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Fun Facts:
+### 有趣的事实：
 
 - 🔮 I love integrating useless but fun features into my projects.
+  🔮 我喜欢在我的项目中加入无用但有趣的功能。
+
 - 🎮 Gaming is my stress buster.
+  🎮 游戏是我的压力释放器。
+
 - 📺 Binge-watching sci-fi series is my guilty pleasure.
+  📺 看科幻连续剧是我的一种享受。
 
 ### Let's Connect:
+### 联系方式：
 
-- 📫 Drop me an email at [your-email@example.com](mailto:your-email@example.com).
+- 📫 Drop me an email at [1022140881@qq.com](mailto:1022140881@qq.com).
+  📫 发邮件给我：[1022140881@qq.com](mailto:1022140881@qq.com)。
+
 - 🌐 Visit my personal website at [home.kldhsh.top](https://home.kldhsh.top).
-- 🐦 Follow me on [Twitter](https://twitter.com/your-twitter) and let's chat!
+  🌐 访问我的个人网站：[home.kldhsh.top](https://home.kldhsh.top)。
+
+- 🐦 Follow me on [bilibili](https://space.bilibili.com/1667643729) and let's chat!
+  🐦 关注我的[哔哩哔哩](https://space.bilibili.com/1667643729)，一起聊聊吧！
+
+
 
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kldhsh123&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
