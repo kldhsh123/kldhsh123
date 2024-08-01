@@ -48,8 +48,8 @@
 ### Let's Connect:
 ### 联系方式：
 
-- 📫 Drop me an email at [1022140881@qq.com](mailto:1022140881@qq.com).  
-  📫 发邮件给我：[1022140881@qq.com](mailto:1022140881@qq.com)。
+- 📫 Drop me an email at [kl@kldhsh.top](mailto:kl@kldhsh.top).  
+  📫 发邮件给我：[kl@kldhsh.top](mailto:kl@kldhsh.top)。
 
 - 🌐 Visit my personal website at [home.kldhsh.top](https://home.kldhsh.top).  
   🌐 访问我的个人网站：[home.kldhsh.top](https://home.kldhsh.top)。
