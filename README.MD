@@ -3,8 +3,8 @@
 </p>
 <a href="https://home.kldhsh.top"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=%E4%B8%BA%E6%98%8E%E5%A4%A9%E7%9A%84%E7%BE%8E%E5%A5%BD%E8%80%8C%E5%AD%98%E5%9C%A8;Exist+for+the+better+of+tomorrow" alt="Typing SVG" /></a>
 
-### Hi there, I'm [kldhsh123](https://home.kldhsh.top) 👋  
-你好，我是[开朗的火山河123](https://home.kldhsh.top) 👋
+### Hi there, I'm [kldhsh123](https://kldhsh.top) 👋  
+你好，我是[开朗的火山河123](https://kldhsh.top) 👋
 
 ## I'm a Front-end Developer and a Fan of Useless Stuff!  
 我是一名前端开发者，也是无用玩意的粉丝！
