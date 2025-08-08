@@ -55,7 +55,7 @@
   📫 发邮件给我：[kl@kldhsh.top](mailto:kl@kldhsh.top)。
 
 - 🌐 Visit my personal website at [home.kldhsh.top](https://home.kldhsh.top).  
-  🌐 访问我的个人网站：[home.kldhsh.top](https://home.kldhsh.top)。
+  🌐 访问我的个人网站：[kldhsh.top](https://kldhsh.top)。
 
 - 🐦 Follow me on [bilibili](https://space.bilibili.com/1667643729) and let's chat!  
   🐦 关注我的[哔哩哔哩](https://space.bilibili.com/1667643729)，一起聊聊吧！
