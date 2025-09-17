@@ -66,7 +66,6 @@
 [![trophy](https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/?username=kldhsh123)](https://github.com/kldhsh123)
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kldhsh123&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=kldhsh123&theme=github-compact&hide_border=true&area=true" />
-<img align="center" src="https://skillicons.dev/icons?i=php,html&theme=light" />
 <a href="https://space.bilibili.com/1667643729"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E5%BC%80%E6%9C%97%E7%9A%84%E7%81%AB%E5%B1%B1%E6%B2%B3123-pink?logo=bilibili" /></a>
 <a href="https://res.abeim.cn/api/qq/?qq=1022140881"><img src="https://img.shields.io/badge/QQ-1022140881-green?logo=tencentqq" /></a>
 <a href="https://discord.gg/CKrvgCyK4y"><img src="https://img.shields.io/badge/discord-purple?logo=discord" /></a>
