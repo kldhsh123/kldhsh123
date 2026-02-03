@@ -18,8 +18,8 @@
 - 👯 I’m looking to collaborate on interesting web projects.  
   👯 寻找有趣的网页项目合作机会。
 
-- 🥅 2025 Goals: Contribute more to Open Source projects.  
-  🥅 2025年目标：更多地贡献开源项目。
+- 🥅 2026 Goals: Contribute more to Open Source projects.  
+  🥅 2026年目标：更多地贡献开源项目。
 
 ### Languages and Tools:
 ### 编程语言和工具：
