@@ -21,6 +21,14 @@
 - 🥅 2026 Goals: Contribute more to Open Source projects.  
   🥅 2026年目标：更多地贡献开源项目。
 
+### Translation & Localization
+### 翻译与本地化：
+
+I am a Simplified Chinese and Traditional Chinese community translator.  
+If you need translations, feel free to contact me: [Crowdin Profile](https://zh.crowdin.com/profile/kldhsh123)  
+
+我是简体中文和繁体中文社区的翻译，如果有翻译需求，请随意联系我：[Crowdin Profile](https://zh.crowdin.com/profile/kldhsh123)
+
 ### Languages and Tools:
 ### 编程语言和工具：
 
