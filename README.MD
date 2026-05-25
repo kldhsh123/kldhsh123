@@ -28,7 +28,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://ghstats.dev/api/card?username=kldhsh123" />
+      <img src="https://ghstats.dev/api/card?username=kldhsh123&theme=light" />
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kldhsh123&theme=default" />
