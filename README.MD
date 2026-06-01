@@ -8,10 +8,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on web development projects
-- 🌱 I’m learning Python, Node.js and C#
-- 💬 Ask me about web development, backend, and databases
-- 📫 Reach me on GitHub
+* 🔭 I’m currently working on web development projects
+* 🌱 I’m learning Python, Node.js and C#
+* 💬 Ask me about web development, backend, and databases
+* 🌐 I’m interested in Simplified and Traditional Chinese localization and translation
+* ✨ I believe technology should purely serve people, rather than be reduced to commercialization
+* 📫 Contact me: `kl@kldhsh.top` / Telegram: [@Aelura0](https://t.me/Aelura0)
 
 ---
 
