@@ -25,11 +25,11 @@
 
 ### [Afterglow](https://github.com/kldhsh123/Afterglow)
 
-> Not just a chatbot.<br />
-> A project exploring the feasibility of RAG-based personality reconstruction from long-term chat history without model fine-tuning.
+> A RAG-based experiment in personality reconstruction from long-term chat history.
 
 **Afterglow** is a project I care deeply about.
-It explores whether retrieval-augmented generation can reconstruct conversational style, memory, and personality from long-term chat history, without relying on model fine-tuning.
+It tests how far retrieval, relationship memory, and context orchestration can go in reproducing conversational style, continuity, and a sense of personality without training a custom model.
+
 
 ---
 
