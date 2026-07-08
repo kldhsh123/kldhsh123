@@ -15,8 +15,9 @@
 * 🔭 I build web/backend systems, AI-related tools, APIs, and server-side projects
 * 🛠 I work with Python, Node.js, C#, PHP, databases, Linux servers, and modern web technologies
 * 🌐 Interested in Simplified Chinese, Traditional Chinese, and English localization
-* ✨ I believe technology should serve people, rather than be reduced to pure commercialization
-* 📫 Contact me: `kl@kldhsh.top` / Telegram: [@Aelura0](https://t.me/Aelura0)
+* ✨ I believe technology should serve people, not just commercial interests
+* 🏠 Website: [kldhsh.top](https://kldhsh.top)
+* 📫 Contact me: [kl@kldhsh.top](mailto:kl@kldhsh.top) / Telegram: [@Aelura0](https://t.me/Aelura0)
 
 ---
 
@@ -24,11 +25,11 @@
 
 ### [Afterglow](https://github.com/kldhsh123/Afterglow)
 
-> Not just a chatbot.
-> A project about memory, personality, context, and the boundary between imitation and reconstruction.
+> Not just a chatbot.<br />
+> A project exploring the feasibility of RAG-based personality reconstruction from long-term chat history without model fine-tuning.
 
-**Afterglow** is one of my most important projects.
-It explores how AI can understand long-term chat history, reconstruct conversational style, and respond with context instead of acting like a blank model every time.
+**Afterglow** is a project I care deeply about.
+It explores whether retrieval-augmented generation can reconstruct conversational style, memory, and personality from long-term chat history, without relying on model fine-tuning.
 
 ---
 
