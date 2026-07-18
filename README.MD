@@ -21,15 +21,37 @@
 
 ---
 
+## 💼 Professional Development Services
+
+我提供专业的软件外包开发服务，包括 Web 应用开发、后端系统、AI 相关工具、API 服务、服务器部署以及定制化软件解决方案。
+
+专注于高效开发、稳定交付和实际需求解决，帮助您将想法转化为可用的软件产品。
+
+无论是完整项目开发、功能扩展、系统优化还是技术支持，我都会努力提供符合您需求的高质量成果。
+
+📫 联系我: [kl@kldhsh.top](mailto:kl@kldhsh.top) / Telegram: [@Aelura0](https://t.me/Aelura0)
+
+
+---
+
+I provide professional software outsourcing services, including web development, backend systems, AI-related tools, APIs, server deployment, and custom software solutions.
+
+I focus on efficient development, reliable delivery, and practical solutions to help turn ideas into usable products.
+
+Whether you need a complete project, feature development, system optimization, or technical support, I aim to deliver results that meet your requirements.
+
+📫 Contact me: [kl@kldhsh.top](mailto:kl@kldhsh.top) / Telegram: [@Aelura0](https://t.me/Aelura0)
+
+---
+
 ## ✨ Representative Work
 
 ### [Afterglow](https://github.com/kldhsh123/Afterglow)
 
 > A RAG-based experiment in personality reconstruction from long-term chat history.
 
-**Afterglow** is a project I care deeply about.
+**Afterglow** is a project I care deeply about.  
 It tests how far retrieval, relationship memory, and context orchestration can go in reproducing conversational style, continuity, and a sense of personality without training a custom model.
-
 
 ---
 
