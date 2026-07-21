@@ -10,10 +10,12 @@
 
 ---
 
-<table width="100%">
+<div>
+
+<table style="width:100%">
 <tr>
 
-<td width="50%" valign="top" height="260">
+<td style="width:50%; vertical-align:top">
 
 ## About Me
 
@@ -31,27 +33,43 @@ I enjoy turning ideas into reliable and usable products.
 
 </td>
 
-<td width="50%" valign="top" height="260">
+<td style="width:50%; vertical-align:top">
 
 ## Links
 
 Website:
 
-[https://kldhsh.top](https://kldhsh.top)
+<a href="https://kldhsh.top">
+https://kldhsh.top
+</a>
 
+<br><br>
 
 Contact:
 
-Email:  
-[kl@kldhsh.top](mailto:kl@kldhsh.top)
+<br>
 
-Telegram:  
-[@Aelura0](https://t.me/Aelura0)
+Email:  
+<a href="mailto:kl@kldhsh.top">
+kl@kldhsh.top
+</a>
+
+<br><br>
+
+Telegram:
+
+<br>
+
+<a href="https://t.me/Aelura0">
+@Aelura0
+</a>
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 
 ---
@@ -67,16 +85,16 @@ Telegram:
 
 ## GitHub Activity
 
-<table width="100%">
+<table style="width:100%">
 <tr>
 
-<td width="55%" align="center">
+<td style="width:55%; text-align:center">
 
 <img src="https://ghstats.dev/api/card?username=kldhsh123&theme=light&hide_border=true" />
 
 </td>
 
-<td width="45%" align="center">
+<td style="width:45%; text-align:center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kldhsh123&theme=default" />
 
