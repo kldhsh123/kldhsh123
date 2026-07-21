@@ -56,47 +56,6 @@ Telegram:
 
 ---
 
-## Featured Project
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-## Afterglow
-
-A RAG-based experiment exploring long-term memory, context retrieval, and conversational continuity in AI systems.
-
-Main ideas:
-
-- Long-term conversation memory
-- Retrieval augmented generation
-- Context orchestration
-- Personality reconstruction
-
-Exploring how AI systems maintain continuity and meaningful interactions.
-
-</td>
-
-
-<td width="40%" valign="top">
-
-[![Afterglow](https://github-stats-extended.vercel.app/api/pin?username=kldhsh123&repo=Afterglow&show_owner=true&description_lines_count=3)](https://github.com/kldhsh123/Afterglow)
-
-
-Repository:
-
-https://github.com/kldhsh123/Afterglow
-
-
-Technologies:
-
-Python · RAG · LLM · AI
-
-</td>
-
-</tr>
-</table>
 
 
 ---
