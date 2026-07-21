@@ -10,12 +10,10 @@
 
 ---
 
-<p align="center">
-
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top" height="260">
+<td width="50%" valign="top">
 
 ## About Me
 
@@ -32,16 +30,14 @@ My interests include:
 I enjoy turning ideas into reliable and usable products.
 
 </td>
-</p>
 
-<td width="50%" valign="top" height="260">
+<td width="50%" valign="top">
 
 ## Links
 
 Website:
 
 [https://kldhsh.top](https://kldhsh.top)
-
 
 Contact:
 
@@ -56,7 +52,6 @@ Telegram:
 </tr>
 </table>
 
-
 ---
 
 ## Technical Skills
@@ -65,7 +60,6 @@ Telegram:
 <img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,vue,php,cs,mysql,linux,docker,git" />
 </p>
 
-
 ---
 
 ## GitHub Activity
@@ -73,13 +67,13 @@ Telegram:
 <table width="100%">
 <tr>
 
-<td width="55%" align="center">
+<td width="55%">
 
 <img src="https://ghstats.dev/api/card?username=kldhsh123&theme=light&hide_border=true" />
 
 </td>
 
-<td width="45%" align="center">
+<td width="45%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kldhsh123&theme=default" />
 
