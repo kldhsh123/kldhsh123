@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm kldhsh123</h1>
 
 <p align="center">
+  Full-stack developer building AI applications, backend systems and practical software.
+</p>
+
+<p align="center">
   <em>Let flowers bloom, let trees grow, and let time give its answer.</em>
 </p>
 
@@ -17,7 +21,7 @@
 
 ## About Me
 
-I am a full-stack developer focused on building practical software systems.
+I build AI-powered applications and reliable software systems.
 
 My interests include:
 
