@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kldhsh123</h1>
 
 <p align="center">
-  Full-stack developer building AI applications, backend systems and practical software.
+  Full-stack developer exploring backend engineering, AI applications and modern software development.
 </p>
 
 <p align="center">
@@ -23,7 +23,13 @@
 <br>
 
 <p align="center">
-  I build software that combines <b>AI</b>, <b>backend systems</b>, and <b>modern web technologies</b>.
+  I build practical software with <b>backend technologies</b>, 
+  <b>AI tools</b>, and <b>modern web frameworks</b>.
+</p>
+
+<p align="center">
+  Currently learning <b>backend engineering</b>, 
+  <b>database design</b>, and <b>distributed system fundamentals</b>.
 </p>
 
 <p align="center">
@@ -43,7 +49,9 @@
   <br>
   Node.js · Linux · Docker · Cloudflare
   <br>
-  LLM · RAG · AI Agents
+  MySQL · Redis · REST API
+  <br>
+  LLM · RAG · AI Applications
 </p>
 
 <br>
