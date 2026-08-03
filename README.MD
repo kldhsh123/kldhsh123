@@ -39,19 +39,3 @@
     Visit my personal website →
   </a>
 </p>
-
-<br>
-
-<h3 align="center">Stack</h3>
-
-<p align="center">
-  Python · TypeScript · JavaScript · C# · PHP
-  <br>
-  Node.js · Linux · Docker · Cloudflare
-  <br>
-  MySQL · Redis · REST API
-  <br>
-  LLM · RAG · AI Applications
-</p>
-
-<br>
